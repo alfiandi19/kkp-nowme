@@ -77,7 +77,7 @@ if(isset($_POST["update"])){
 	<div class="agileits_header">
 		<div class="container">
 			<div class="w3l_offers">
-				<p>DAPATKAN PENAWARAN MENARIK KHUSUS HARI INI, BELANJA SEKARANG!</p>
+				<p>DAPATKAN PENAWARAN MENARIK KHUSUS HARI INI,BELANJA SEKARANG!</p>
 			</div>
 			<div class="agile-login">
 				<ul>
