@@ -90,7 +90,7 @@ $idk = $_GET['idkategori'];
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
-				<h1><a href="index.php">Nowme</a></h1>
+				<a href="index.php"><img src="images/logo.png" alt="" /></a>
 			</div>
 		<div class="w3l_search">
 			<form action="search.php" method="post">

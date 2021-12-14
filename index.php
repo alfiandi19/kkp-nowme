@@ -90,7 +90,7 @@ include 'dbconnect.php';
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
-				<h1><a href="index.php">NOWME </a></h1>
+				<a href="index.php"><img src="images/logo.png" alt="" /></a>
 			</div>
 		<div class="w3l_search">
 			<form action="search.php" method="post">
@@ -159,14 +159,14 @@ include 'dbconnect.php';
 	<!-- main-slider -->
 		<ul id="demo1">
 			<li>
-				<img src="images/logo1.jpg" alt="" />
+				<img src="images/Home Banner Web.png" alt="" />
 			</li>
 			<li>
-				<img src="images/undraw_web_shopping_re_owap.png" alt="" />
+				<img src="images/Home Banner Web 2.png" alt="" />
 			</li>
 			
 			<li>
-				<img src="images/slide3.jpg" alt="" />
+				<img src="images/Home Banner Web 3.png" alt="" />
 			</li>
 		</ul>
 	<!-- //main-slider -->
