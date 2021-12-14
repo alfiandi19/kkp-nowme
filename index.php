@@ -7,7 +7,7 @@ include 'dbconnect.php';
 <!DOCTYPE html>
 <html>
 <head>
-<title>NOWME INTERNASIONAL</title>
+<title>NOWME</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -90,7 +90,7 @@ include 'dbconnect.php';
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
-				<h1><a href="index.php">NOWME INTERNASIONAL</a></h1>
+				<h1><a href="index.php">NOWME </a></h1>
 			</div>
 		<div class="w3l_search">
 			<form action="search.php" method="post">
