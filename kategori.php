@@ -189,7 +189,7 @@ $idk = $_GET['idkategori'];
 					</ul>
 				</div>																																												
 			</div>
-			<div class="col-md-8 products-right">
+			<div class="col-md-10 products-right">
 				<div class="agile_top_brands_grids">
 				
 				
